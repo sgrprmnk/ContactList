@@ -1,3 +1,3 @@
 # ContactList
-Created with CodeSandbox
+Created with React
 <h1>Using React</h1>
